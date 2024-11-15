@@ -11,3 +11,7 @@ Game where you control a paddle with the arrow keys to bounce a ball up to break
 - Add collision detection
 - Keep score
 - Add rules button with slider
+
+## Additional Information
+
+The application is live at https://hiteshm2107.github.io/Breakout-Game/. Give it a try!
